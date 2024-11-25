@@ -1,0 +1,35 @@
+---
+title: "Introduction"
+about:
+  template: jolla
+  image: profile.png
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/barrettbuhler/
+    - icon: github
+      text: Github
+      href: https://github.com/barrettb
+---
+
+Hi! My name is Barrett Buhler, and I am currently a first-year Master’s student at the University of Toronto, specializing in biostatistics. I am conducting research at SickKids in the Strug Lab under the guidance of Lisa Strug and Delnaz Roshandel. My academic interests are primarily centered around machine learning and its applications in healthcare.
+
+Outside of work, I enjoy surfing, travelling and playing chess. If you have any questions, feel free to reach out to me on Linkedin.
+
+## Education
+
+University of Toronto | Toronto, ON 
+MSc in Biostatistics | September 2024 - Present
+
+University of North Carolina at Chapel Hill | Chapel Hill, NC
+BSc in Statistics and Operational Research | August 2020 - May 2024
+
+
+## Experience
+
+SickKids | Researcher | Sept 2024 - Present
+
+Currently apart of Strug Lab researching sub-genotypes of Rolandic  
+Epilepsy
+
+
