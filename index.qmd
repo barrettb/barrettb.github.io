@@ -18,10 +18,10 @@ Outside of work, I enjoy surfing, travelling and playing chess. If you have any 
 
 ## Education
 
-University of Toronto | Toronto, ON 
+University of Toronto | Toronto, ON |
 MSc in Biostatistics | September 2024 - Present
 
-University of North Carolina at Chapel Hill | Chapel Hill, NC
+University of North Carolina at Chapel Hill | Chapel Hill, NC |
 BSc in Statistics and Operational Research | August 2020 - May 2024
 
 
@@ -29,7 +29,17 @@ BSc in Statistics and Operational Research | August 2020 - May 2024
 
 SickKids | Researcher | Sept 2024 - Present
 
-Currently apart of Strug Lab researching sub-genotypes of Rolandic  
-Epilepsy
+Currently apart of Strug Lab researching sub-genotypes of Rolandic Epilepsy
 
+University of Toronto Department of Statistical Sciences | Teaching Assistant | Sept 2024 - Present
+
+Teaching Assistant for STA302, a course that serves as an introduction to regression analyses for third year statistics students
+
+UNC School of Medicine | AI Researcher | June 2023 - May 2024
+
+Worked as an AI reseacher under Dr. Faisal Syed to develop deep learning models with ECG data
+
+UNC Impact Investing | Co-Founder | August 2020 - May 2024
+
+Established the Climate Resilience Fund, UNC’s first student-led impact investment fund incorporated under Kenan Flagler
 

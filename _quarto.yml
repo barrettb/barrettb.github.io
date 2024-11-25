@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: Research
+        text: Projects
       - href: files/Resume_BarrettBuhler.pdf
         text: CV
 
